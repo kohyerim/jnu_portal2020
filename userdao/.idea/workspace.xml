@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd0e2e4f-9596-44d3-910f-1f26acd7ffbc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aLba6cFr1OkGmf1Vbw18Hx0HvR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="kr.ac.jejunu.user" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UserDaoTests.get" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kr.ac.jejunu.user.UserDaoTests.get&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.UserDaoTests.get" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd0e2e4f-9596-44d3-910f-1f26acd7ffbc" name="Default Changelist" comment="" />
+      <created>1586517881508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586517881508</updated>
+      <workItem from="1586517883089" duration="138000" />
+      <workItem from="1586518111269" duration="2639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586518141236">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1586518141236" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1586520537620">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1586520537620" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1586520537619">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1586520537619" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1586520537618">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1586520537618" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1586520537619">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1586520537619" />
+    <state x="503" y="206" key="chooseDestDirectoryDialog" timestamp="1586518760114">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="503" y="206" key="chooseDestDirectoryDialog/0.23.1440.797@0.23.1440.797" timestamp="1586518760114" />
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1586519174084">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1586519174084" />
+  </component>
+</project>
