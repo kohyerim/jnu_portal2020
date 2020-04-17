@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd0e2e4f-9596-44d3-910f-1f26acd7ffbc" name="Default Changelist" comment="" />
+    <list default="true" id="dd0e2e4f-9596-44d3-910f-1f26acd7ffbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/kr/ac/jejunu/user/UserDaoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/kr/ac/jejunu/user/UserDaoTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +36,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1aLba6cFr1OkGmf1Vbw18Hx0HvR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,17 +48,40 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="kr.ac.jejunu.user" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.UserDaoTests">
+    <configuration name="UserDaoTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kr.ac.jejunu.user.UserDaoTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="UserDaoTests.get" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -72,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.UserDaoTests" />
         <item itemvalue="Gradle.UserDaoTests.get" />
       </list>
     </recent_temporary>
@@ -87,7 +120,8 @@
       <option name="presentableId" value="Default" />
       <updated>1586517881508</updated>
       <workItem from="1586517883089" duration="138000" />
-      <workItem from="1586518111269" duration="2639000" />
+      <workItem from="1586518111269" duration="2838000" />
+      <workItem from="1587108907246" duration="2720000" />
     </task>
     <servers />
   </component>
@@ -99,26 +133,46 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1586518141236" />
-    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1586520537620">
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1587111467513">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1586520537620" />
-    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1586520537619">
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1586521096850" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587111467513" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1587111467512">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1586520537619" />
-    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1586520537618">
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1586521096850" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587111467512" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1587111467512">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1586520537618" />
-    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1586520537619">
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1586521096849" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587111467512" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1587111467513">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1586520537619" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1586521096850" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587111467513" />
+    <state x="521" y="346" key="ReplaceDuplicatesPrompt" timestamp="1587111739937">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="521" y="346" key="ReplaceDuplicatesPrompt/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587111739937" />
+    <state x="221" y="60" key="SettingsEditor" timestamp="1587109546448">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="221" y="60" key="SettingsEditor/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587109546448" />
     <state x="503" y="206" key="chooseDestDirectoryDialog" timestamp="1586518760114">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="503" y="206" key="chooseDestDirectoryDialog/0.23.1440.797@0.23.1440.797" timestamp="1586518760114" />
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1587108912716">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587108912716" />
+    <state x="458" y="181" width="542" height="484" key="extract.method.dialog" timestamp="1587111736725">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="458" y="181" width="542" height="484" key="extract.method.dialog/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587111736725" />
     <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1586519174084">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
