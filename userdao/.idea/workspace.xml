@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd0e2e4f-9596-44d3-910f-1f26acd7ffbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/HallaUserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/JejuUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/ConnectionMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/HallaConnectionMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/JejuConnectionMaker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/HallaUserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/JejuUserDao.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/UserDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/kr/ac/jejunu/user/UserDaoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/kr/ac/jejunu/user/UserDaoTests.java" afterDir="false" />
     </list>
@@ -122,7 +125,7 @@
       <updated>1586517881508</updated>
       <workItem from="1586517883089" duration="138000" />
       <workItem from="1586518111269" duration="2838000" />
-      <workItem from="1587108907246" duration="4011000" />
+      <workItem from="1587108907246" duration="5643000" />
     </task>
     <servers />
   </component>
@@ -134,10 +137,14 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1586518141236" />
-    <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1587113024359">
+    <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1587114664844">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587113024359" />
+    <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587114664844" />
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587114183889">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587114183889" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1587113111734">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -158,6 +165,10 @@
     </state>
     <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1586521096850" />
     <state width="1398" height="204" key="GridCell.Tab.0.right/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587113111734" />
+    <state x="408" y="124" width="623" height="590" key="RefactorJ.ExtractClass" timestamp="1587114041892">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="408" y="124" width="623" height="590" key="RefactorJ.ExtractClass/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587114041892" />
     <state x="521" y="346" key="ReplaceDuplicatesPrompt" timestamp="1587111739937">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -178,6 +189,10 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="458" y="181" width="542" height="484" key="extract.method.dialog/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587111736725" />
+    <state x="482" y="35" key="refactoring.ChangeSignatureDialog" timestamp="1587114537802">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="482" y="35" key="refactoring.ChangeSignatureDialog/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587114537802" />
     <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1586519174084">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
