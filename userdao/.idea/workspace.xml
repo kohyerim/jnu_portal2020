@@ -2,29 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd0e2e4f-9596-44d3-910f-1f26acd7ffbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/daoFactory.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/daoFactory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kr/ac/jejunu/user/LombokTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/kr/ac/jejunu/user/UserDaoTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/kr/ac/jejunu/user/UserDaoTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/kr.ac.jejunu.user.UserDaoTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/kr.ac.jejunu.user.UserDaoTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/kr/ac/jejunu/user/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/kr/ac/jejunu/user/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/kr.ac.jejunu.user.UserDaoTests.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/kr.ac.jejunu.user.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/kr.ac.jejunu.user.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-kr.ac.jejunu.user.UserDaoTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-kr.ac.jejunu.user.UserDaoTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-kr.ac.jejunu.user.UserDaoTests.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/DaoFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/kr/ac/jejunu/user/UserDaoTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/kr/ac/jejunu/user/UserDaoTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/ac/jejunu/user/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,14 +121,34 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="consents" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="kr.ac.jejunu.user" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.UserDaoTests">
+  <component name="RunManager" selected="Gradle.LombokTests">
+    <configuration name="LombokTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;kr.ac.jejunu.user.LombokTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="UserDaoTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="env">
@@ -182,9 +200,11 @@
     <list>
       <item itemvalue="Gradle.UserDaoTests" />
       <item itemvalue="Gradle.UserDaoTests.get" />
+      <item itemvalue="Gradle.LombokTests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.LombokTests" />
         <item itemvalue="Gradle.UserDaoTests" />
         <item itemvalue="Gradle.UserDaoTests.get" />
       </list>
@@ -214,7 +234,9 @@
       <workItem from="1589439347171" duration="7000" />
       <workItem from="1589505735164" duration="8000" />
       <workItem from="1589528987466" duration="2690000" />
-      <workItem from="1589532076434" duration="1482000" />
+      <workItem from="1589532076434" duration="2482000" />
+      <workItem from="1590131085479" duration="1567000" />
+      <workItem from="1590132706214" duration="390000" />
     </task>
     <servers />
   </component>
@@ -229,11 +251,12 @@
     <state x="184" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.797@0.23.1440.797" timestamp="1586518141236" />
     <state x="174" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.0.1024.704/0.0.1440.900@0.0.1440.900" timestamp="1587991858938" />
     <state x="128" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.23.1024.681/0.0.1440.900@0.0.1440.900" timestamp="1587992230511" />
-    <state x="533" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1588317769503">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="533" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1590132308626">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="533" y="130" key="#com.intellij.ide.util.MemberChooser/1440.0.1024.704/0.0.1440.900@0.0.1440.900" timestamp="1588317769503" />
     <state x="533" y="138" key="#com.intellij.ide.util.MemberChooser/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587114664844" />
+    <state x="533" y="139" key="#com.intellij.ide.util.MemberChooser/1440.23.960.681/0.23.1440.803@0.23.1440.803" timestamp="1590132308626" />
     <state x="494" y="287" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1588321046827">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -252,42 +275,46 @@
     <state x="465" y="379" key="EnvironmentVariablesDialog/0.0.1440.900@0.0.1440.900" timestamp="1589436857247" />
     <state x="465" y="379" width="841" height="456" key="EnvironmentVariablesDialog/1440.0.1024.704/0.0.1440.900@0.0.1440.900" timestamp="1587991857145" />
     <state x="465" y="379" key="EnvironmentVariablesDialog/1440.23.1024.681/0.0.1440.900@0.0.1440.900" timestamp="1587992228267" />
-    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1589533435307">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="160" key="GridCell.Tab.0.bottom" timestamp="1590133092314">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588663144171" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1587116696709" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.0.1024.704/0.0.1440.900@0.0.1440.900" timestamp="1588322173822" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.23.1024.681/0.0.1440.900@0.0.1440.900" timestamp="1588317947774" />
-    <state width="1398" height="203" key="GridCell.Tab.0.bottom/1440.23.1024.681/0.23.1440.797@0.23.1440.797" timestamp="1589533435307" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/1440.23.1024.681/0.23.1440.797@0.23.1440.797" timestamp="1589534918595" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587115180013" />
-    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1589533435306">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="160" key="GridCell.Tab.0.bottom/1440.23.960.681/0.23.1440.803@0.23.1440.803" timestamp="1590133092314" />
+    <state width="1398" height="160" key="GridCell.Tab.0.center" timestamp="1590133092313">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588663144170" />
     <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1587116696708" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/1440.0.1024.704/0.0.1440.900@0.0.1440.900" timestamp="1588322173819" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/1440.23.1024.681/0.0.1440.900@0.0.1440.900" timestamp="1588317947773" />
-    <state width="1398" height="203" key="GridCell.Tab.0.center/1440.23.1024.681/0.23.1440.797@0.23.1440.797" timestamp="1589533435306" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center/1440.23.1024.681/0.23.1440.797@0.23.1440.797" timestamp="1589534918595" />
     <state width="1398" height="204" key="GridCell.Tab.0.center/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587115180012" />
-    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1589533435306">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="160" key="GridCell.Tab.0.center/1440.23.960.681/0.23.1440.803@0.23.1440.803" timestamp="1590133092313" />
+    <state width="1398" height="160" key="GridCell.Tab.0.left" timestamp="1590133092312">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588663144170" />
     <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1587116696708" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/1440.0.1024.704/0.0.1440.900@0.0.1440.900" timestamp="1588322173817" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/1440.23.1024.681/0.0.1440.900@0.0.1440.900" timestamp="1588317947772" />
-    <state width="1398" height="203" key="GridCell.Tab.0.left/1440.23.1024.681/0.23.1440.797@0.23.1440.797" timestamp="1589533435306" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left/1440.23.1024.681/0.23.1440.797@0.23.1440.797" timestamp="1589534918594" />
     <state width="1398" height="204" key="GridCell.Tab.0.left/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587115180012" />
-    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1589533435307">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="160" key="GridCell.Tab.0.left/1440.23.960.681/0.23.1440.803@0.23.1440.803" timestamp="1590133092312" />
+    <state width="1398" height="160" key="GridCell.Tab.0.right" timestamp="1590133092313">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588663144171" />
     <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1587116696709" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/1440.0.1024.704/0.0.1440.900@0.0.1440.900" timestamp="1588322173820" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/1440.23.1024.681/0.0.1440.900@0.0.1440.900" timestamp="1588317947773" />
-    <state width="1398" height="203" key="GridCell.Tab.0.right/1440.23.1024.681/0.23.1440.797@0.23.1440.797" timestamp="1589533435307" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right/1440.23.1024.681/0.23.1440.797@0.23.1440.797" timestamp="1589534918595" />
     <state width="1398" height="204" key="GridCell.Tab.0.right/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587115180012" />
+    <state width="1398" height="160" key="GridCell.Tab.0.right/1440.23.960.681/0.23.1440.803@0.23.1440.803" timestamp="1590133092313" />
     <state x="408" y="114" width="623" height="663" key="RefactorJ.ExtractClass" timestamp="1588318755454">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -297,22 +324,24 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="521" y="346" key="ReplaceDuplicatesPrompt/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587111739937" />
-    <state x="221" y="60" key="SettingsEditor" timestamp="1589532387319">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="221" y="60" key="SettingsEditor" timestamp="1590132692858">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="221" y="42" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589356257415" />
     <state x="221" y="60" key="SettingsEditor/1440.23.1024.681/0.23.1440.797@0.23.1440.797" timestamp="1589532387319" />
     <state x="221" y="60" key="SettingsEditor/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587109546448" />
+    <state x="221" y="60" key="SettingsEditor/1440.23.960.681/0.23.1440.803@0.23.1440.803" timestamp="1590132692858" />
     <state x="503" y="206" key="chooseDestDirectoryDialog" timestamp="1586518760114">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="503" y="206" key="chooseDestDirectoryDialog/0.23.1440.797@0.23.1440.797" timestamp="1586518760114" />
-    <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1589528988147">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="397" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1590132706676">
+      <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="397" y="261" key="com.intellij.ide.util.TipDialog/1440.0.1024.704/0.0.1440.900@0.0.1440.900" timestamp="1589528988147" />
     <state x="397" y="254" key="com.intellij.ide.util.TipDialog/1440.23.1024.681/0.23.1440.797@0.23.1440.797" timestamp="1587986927384" />
     <state x="397" y="254" key="com.intellij.ide.util.TipDialog/1440.23.960.681/0.23.1440.797@0.23.1440.797" timestamp="1587108912716" />
+    <state x="397" y="256" key="com.intellij.ide.util.TipDialog/1440.23.960.681/0.23.1440.803@0.23.1440.803" timestamp="1590132706676" />
     <state x="458" y="178" width="542" height="484" key="extract.method.dialog" timestamp="1588320908298">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
