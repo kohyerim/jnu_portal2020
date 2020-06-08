@@ -34,7 +34,7 @@ public class UserController {
 
     @RequestMapping(path="/upload", method = RequestMethod.POST)
     public ModelAndView upload(@RequestParam("file") MultipartFile file, HttpServletRequest request) throws IOException {
-        File path = new File(request.getServletContext().getRealPath("/") + "/WEB-INF/static" + file.getOriginalFilename());
+        File path = new File(request.getServletContext().getRealPath("/") + "/WEB-INF/static/" + file.getOriginalFilename());
         FileOutputStream fileOutputStream = new FileOutputStream(path);
         BufferedOutputStream bufferedOutputStream = new BufferedOutputStream(fileOutputStream);
         bufferedOutputStream.write(file.getBytes());
